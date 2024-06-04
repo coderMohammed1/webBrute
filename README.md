@@ -9,4 +9,5 @@ this is a simple python code that will make webPages brute forcing easy!
 
 1 - install requests library(write this in the cmd):
   pip install requests
+.
 2- just run the code!
